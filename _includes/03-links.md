@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+![Image of angoro cat](https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg)
+
